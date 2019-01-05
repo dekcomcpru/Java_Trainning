@@ -1,0 +1,1183 @@
+!SESSION 2019-01-05 15:00:09.786 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_05
+java.vendor=BEA Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+This is a continuation of log file D:\Extosoft\TRAINNING\.metadata\.bak_0.log
+Created Time: 2019-01-05 15:00:36.589
+
+!ENTRY org.eclipse.jdt.apt.core 1 1 2019-01-05 15:00:36.630
+!MESSAGE Informational message reported by annotation processor:
+10.3 WSCompilerClasspath - [332]-[C:\bea10.3\wlserver_10.3\server\lib\webservices.jar, C:\bea10.3\wlserver_10.3\server\lib\weblogic.jar, C:\bea10.3\modules\features\weblogic.server.modules_10.3.0.0.jar, C:\bea10.3\modules\features\weblogic.server.modules.L10N_10.3.0.0.jar, C:\bea10.3\modules\com.bea.core.antlr.runtime_2.7.7.jar, C:\bea10.3\modules\com.bea.core.descriptor.j2ee_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.descriptor.j2ee.binding_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.descriptor.wl_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.descriptor.wl.binding_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.datasource6_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.datasource6.binding_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.beangen_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.descriptor.settable.binding_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.accessor_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.accessor.binding_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.management.core_2.3.0.0.jar, C:\bea10.3\modules\com.bea.core.management.core.binding_2.3.0.0.jar, C:\bea10.3\modules\com.bea.core.ejbgen_1.0.0.0.jar, C:\bea10.3\modules\org.apache.ant.patch_1.1.0.0_1-6-5.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-all.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-xslp.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-xalan1.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-weblogic.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-vaj.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-trax.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-swing.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-stylebook.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-starteam.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-nodeps.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-netrexx.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-launcher.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-junit.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-jsch.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-jmf.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-jdepend.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-javamail.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-jai.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-icontract.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-commons-net.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-commons-logging.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-apache-resolver.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-apache-regexp.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-apache-oro.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-apache-log4j.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-apache-bsf.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-apache-bcel.jar, C:\bea10.3\modules\org.apache.ant_1.6.5\lib\ant-antlr.jar, C:\bea10.3\modules\com.bea.core.repackaged.apache.bcel_5.2.1.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.jdt_3.2.2.0.jar, C:\bea10.3\modules\com.bea.core.apache.commons.collections_3.2.0.jar, C:\bea10.3\modules\com.bea.core.apache.commons.lang_2.1.0.jar, C:\bea10.3\modules\com.bea.core.apache.commons.pool_1.3.0.jar, C:\bea10.3\modules\com.bea.core.apache.dom_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.apache.logging_1.0.0.0.jar, C:\bea10.3\modules\org.apache.openjpa_2.2.0.0_1-1-0.jar, C:\bea10.3\modules\com.bea.core.xml.xmlbeans_1.0.0.0_2-4-0.jar, C:\bea10.3\modules\com.bea.core.logging_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.bea.opensaml_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.bea.opensaml2_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.monitoring.harvester.api_2.1.0.0.jar, C:\bea10.3\modules\com.bea.core.monitoring.harvester.jmx_2.1.0.0.jar, C:\bea10.3\modules\com.bea.adaptive.harvester.utils_1.2.0.0.jar, C:\bea10.3\modules\com.bea.mbean.typing.util_1.2.0.0.jar, C:\bea10.3\modules\javolution_3.7.19.0.jar, C:\bea10.3\modules\joda.time_1.2.1.0.jar, C:\bea10.3\modules\com.bea.core.xml.staxb.buildtime_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.xml.staxb.runtime_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.annogen_1.2.0.0.jar, C:\bea10.3\modules\com.bea.core.kodo_1.0.0.0_4-2-0.jar, C:\bea10.3\modules\com.bea.core.kodo.integration_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.kodo.integration.binding_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.kodo.integration.tools_1.2.0.0.jar, C:\bea10.3\modules\com.bea.core.process_5.4.0.0.jar, C:\bea10.3\modules\com.bea.core.xml.beaxmlbeans_1.0.0.0_2-4-0.jar, C:\bea10.3\modules\com.bea.core.weblogic.stax_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.utils_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.aspectj.aspectjweaver_5.1.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.apache.commons.logging_1.2.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.springframework.spring_2.0.3.jar, C:\bea10.3\modules\com.bea.core.repackaged.springframework.pitchfork_1.1.0.0_1-0.jar, C:\bea10.3\modules\com.bea.core.common.security.i18n_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.xacml_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.saml2.utils_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.engine.impl_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.engine.api_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.api_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.impl_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.jdkutils_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.utils_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.saml2_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.saml2.manage_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.providers.utils_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.saml.utils_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.xacmlproviders.utils_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.common.security.providers.env_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.certj_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.ldapjdk_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.apache.commons.net_1.0.0.0_1-4-1.jar, C:\bea10.3\modules\com.bea.core.weblogic.saaj_1.3.0.0.jar, C:\bea10.3\modules\glassfish.el_2.1.0.jar, C:\bea10.3\modules\glassfish.jaxb_2.1.6.jar, C:\bea10.3\modules\glassfish.jaxb.xjc_2.1.6.jar, C:\bea10.3\modules\glassfish.jaxws.resolver_2.1.3.jar, C:\bea10.3\modules\glassfish.jaxws.fastinfoset_2.1.3.jar, C:\bea10.3\modules\glassfish.jaxws.rt_2.1.3.jar, C:\bea10.3\modules\glassfish.jaxws.mimepull_1.0.144.jar, C:\bea10.3\modules\com.bea.core.woodstox_1.0.0.0_3-2-4.jar, C:\bea10.3\modules\glassfish.jaxws.tools_1.0.0.0_2-1-3.jar, C:\bea10.3\modules\glassfish.stax.ex_1.0.0.0_1-2.jar, C:\bea10.3\modules\glassfish.xmlstreambuffer_0.5.221.jar, C:\bea10.3\modules\com.bea.core.apache.oro_1.0.0.0_2-0-8.jar, C:\bea10.3\modules\javax.activation_1.1.0.0_1-1.jar, C:\bea10.3\modules\javax.annotation_1.1.jar, C:\bea10.3\modules\javax.interceptor_1.0.jar, C:\bea10.3\modules\javax.ejb_3.0.1.jar, C:\bea10.3\modules\javax.jdo_2.0.1.jar, C:\bea10.3\modules\javax.enterprise.deploy_1.2.jar, C:\bea10.3\modules\javax.jms_1.1.1.jar, C:\bea10.3\modules\javax.jsp_1.1.0.0_2-1.jar, C:\bea10.3\modules\javax.jws_2.0.jar, C:\bea10.3\modules\javax.mail_1.1.0.0_1-1.jar, C:\bea10.3\modules\javax.management.j2ee_1.0.jar, C:\bea10.3\modules\javax.persistence_1.0.0.0_1-0.jar, C:\bea10.3\modules\javax.resource_1.5.1.jar, C:\bea10.3\modules\javax.security.jacc_1.0.0.0_1-1.jar, C:\bea10.3\modules\javax.servlet_1.0.0.0_2-5.jar, C:\bea10.3\modules\javax.transaction_1.0.0.0_1-1.jar, C:\bea10.3\modules\javax.xml.bind_2.1.1.jar, C:\bea10.3\modules\javax.xml.registry_1.0.0.0_1-0.jar, C:\bea10.3\modules\javax.xml.soap_1.3.1.0.jar, C:\bea10.3\modules\javax.xml.stream_1.1.1.0.jar, C:\bea10.3\modules\javax.xml.ws_2.1.1.jar, C:\bea10.3\modules\javax.xml.rpc_1.2.1.jar, C:\bea10.3\modules\monfox.dsnmp.agent_1.0.0.0_4-6-5.jar, C:\bea10.3\modules\com.bea.core.jsafe_3.5.0.jar, C:\bea10.3\modules\com.bea.core.serp_1.14.2.0.jar, C:\bea10.3\modules\com.bea.core.apache_1.2.0.0.jar, C:\bea10.3\modules\com.bea.core.beaninfo_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.descriptor_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.asm_3.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.asm.commons_3.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.asm.tree_3.0.jar, C:\bea10.3\modules\com.bea.core.repackaged.asm.util_3.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.core_2.1.0.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.logging_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.query_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.instrumentor_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.notifications_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.diagnostics.snmp_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.i18n_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.i18n.generator_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.i18n.tools_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.management.jmx_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.mbean.maker_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.mbean.support_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.messaging.kernel_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.resourcepool_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.socket.api_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.rmi.client_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.security.wls_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.weblogic.lifecycle_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.store_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.store.gxa_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.store.admintool_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.store.jdbc_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.transaction_2.5.0.0.jar, C:\bea10.3\modules\com.bea.core.utils.full_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.utils.agent_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.utils.classloaders_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.utils.compiler_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.utils.expressions_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.utils.wrapper_1.3.0.0.jar, C:\bea10.3\modules\com.bea.core.timers_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.workmanager_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.workarea_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.xml.weblogic.xpath_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.jatmi_1.2.0.3.jar, C:\bea10.3\modules\com.bea.core.weblogic.security_1.0.0.0_5-0-2-0.jar, C:\bea10.3\modules\com.bea.core.weblogic.security.auth_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.security.digest_1.0.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.security.identity_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.security.logger_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.nodemanager.plugin_1.2.0.0.jar, C:\bea10.3\modules\com.bea.core.jmspool_1.4.0.0.jar, C:\bea10.3\modules\com.bea.core.compat.wl.90_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.http.pubsub.mbean_1.2.0.0.jar, C:\bea10.3\modules\com.bea.core.weblogic.web.api_1.2.0.0.jar, C:\bea10.3\modules\com.bea.core.redef_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.redefagent_1.1.0.0.jar, C:\bea10.3\modules\com.bea.core.redef.binding_1.1.0.0.jar, C:\bea10.3\wlserver_10.3\server\lib\schema\weblogic-domain-binding.jar, C:\bea10.3\wlserver_10.3\server\lib\schema\diagnostics-binding.jar, C:\bea10.3\wlserver_10.3\server\lib\schema\diagnostics-image-binding.jar, C:\bea10.3\wlserver_10.3\server\lib\wlcipher.jar, C:\bea10.3\wlserver_10.3\server\lib\xmlx.jar, C:\bea10.3\wlserver_10.3\server\lib\ojdbc6.jar, C:\bea10.3\wlserver_10.3\server\lib\jconn2.jar, C:\bea10.3\wlserver_10.3\server\lib\jconn3.jar, C:\bea10.3\wlserver_10.3\server\lib\jConnect.jar, C:\bea10.3\wlserver_10.3\server\lib\EccpressoAsn1.jar, C:\bea10.3\wlserver_10.3\server\lib\EccpressoCore.jar, C:\bea10.3\wlserver_10.3\server\lib\EccpressoJcae.jar, C:\bea10.3\wlserver_10.3\server\lib\mysql-connector-java-commercial-5.0.3-bin.jar, C:\bea10.3\wlserver_10.3\server\lib\wlbase.jar, C:\bea10.3\wlserver_10.3\server\lib\wlutil.jar, C:\bea10.3\wlserver_10.3\server\lib\wlsqlserver.jar, C:\bea10.3\wlserver_10.3\server\lib\wldb2.jar, C:\bea10.3\wlserver_10.3\server\lib\wlsybase.jar, C:\bea10.3\wlserver_10.3\server\lib\wloracle.jar, C:\bea10.3\wlserver_10.3\server\lib\wlinformix.jar, C:\bea10.3\wlserver_10.3\server\lib\wlw-langx.jar, C:\bea10.3\modules\javax.jsp_1.1.0.0_2-1.jar, C:\bea10.3\modules\glassfish.el_2.1.0.jar, C:\bea10.3\modules\javax.servlet_1.0.0.0_2-5.jar, C:\bea10.3\modules\com.bea.core.repackaged.jdt_3.2.2.0.jar, C:\bea10.3\modules\com.bea.core.utils.compiler_1.0.0.0.jar, C:\bea10.3\wlserver_10.3\common\lib\pdev.jar, C:\bea10.3\wlserver_10.3\common\lib, C:\bea10.3\modules\com.bea.cie.plugin-wizard_2.1.2.0.jar, C:\bea10.3\modules\com.bea.cie.plugin_2.1.0.0.jar, C:\bea10.3\modules\com.bea.cie.comdev_5.9.0.0.jar, C:\bea10.3\modules\com.bea.cie.xmldh_2.2.0.0.jar, C:\bea10.3\modules\com.bea.cie.gpr_2.8.0.0.jar, C:\bea10.3\modules\com.bea.cie.gpr-impl_2.8.0.0.jar, C:\bea10.3\modules\com.bea.cie.wizard_5.6.0.0.jar, C:\bea10.3\wlserver_10.3\common\lib\oxy-cci.jar, C:\bea10.3\modules\com.bea.cie.config_5.2.0.0.jar, C:\bea10.3\modules\com.bea.cie.wlw-plaf_5.2.0.0.jar, C:\bea10.3\modules\com.bea.cie.common-plugin_2.2.0.0.jar, C:\bea10.3\wlserver_10.3\server\lib\wlw-system.jar, C:\bea10.3\wlserver_10.3\server\lib\jcom.jar, C:\bea10.3\wlserver_10.3\server\lib\api.jar, C:\bea10.3\modules\glassfish.jstl_1.2.0.1.jar, C:\bea10.3\modules\javax.jsf_1.2.0.0.jar, C:\bea10.3\modules\javax.ejb_3.0.1.jar, C:\bea10.3\modules\javax.enterprise.deploy_1.2.jar, C:\bea10.3\modules\javax.interceptor_1.0.jar, C:\bea10.3\modules\javax.jms_1.1.1.jar, C:\bea10.3\modules\javax.jws_2.0.jar, C:\bea10.3\modules\javax.activation_1.1.0.0_1-1.jar, C:\bea10.3\modules\javax.mail_1.1.0.0_1-1.jar, C:\bea10.3\modules\javax.xml.soap_1.3.1.0.jar, C:\bea10.3\modules\javax.xml.rpc_1.2.1.jar, C:\bea10.3\modules\javax.xml.ws_2.1.1.jar, C:\bea10.3\modules\javax.management.j2ee_1.0.jar, C:\bea10.3\modules\javax.resource_1.5.1.jar, C:\bea10.3\modules\javax.transaction_1.0.0.0_1-1.jar, C:\bea10.3\modules\javax.xml.stream_1.1.1.0.jar, C:\bea10.3\modules\javax.security.jacc_1.0.0.0_1-1.jar, C:\bea10.3\modules\javax.xml.registry_1.0.0.0_1-0.jar, C:\bea10.3\jrockit_160_05\lib\tools.jar, D:/Extosoft/TRAINNING/AppTier/build/classes, C:/bea10.3/jrockit_160_05/jre/lib/resources.jar, C:/bea10.3/jrockit_160_05/jre/lib/rt.jar, C:/bea10.3/jrockit_160_05/jre/lib/jsse.jar, C:/bea10.3/jrockit_160_05/jre/lib/jce.jar, C:/bea10.3/jrockit_160_05/jre/lib/charsets.jar, C:/bea10.3/jrockit_160_05/jre/lib/ext/dnsns.jar, C:/bea10.3/jrockit_160_05/jre/lib/ext/localedata.jar, C:/bea10.3/jrockit_160_05/jre/lib/ext/sunjce_provider.jar, C:/bea10.3/jrockit_160_05/jre/lib/ext/sunmscapi.jar, C:/bea10.3/jrockit_160_05/jre/lib/ext/sunpkcs11.jar, C:/bea10.3/wlserver_10.3/server/lib/api.jar, C:/bea10.3/modules/glassfish.jstl_1.2.0.1.jar, C:/bea10.3/modules/javax.jsf_1.2.0.0.jar, C:/bea10.3/modules/javax.ejb_3.0.1.jar, C:/bea10.3/modules/javax.enterprise.deploy_1.2.jar, C:/bea10.3/modules/javax.interceptor_1.0.jar, C:/bea10.3/modules/javax.jms_1.1.1.jar, C:/bea10.3/modules/javax.jsp_1.1.0.0_2-1.jar, C:/bea10.3/modules/javax.jws_2.0.jar, C:/bea10.3/modules/javax.activation_1.1.0.0_1-1.jar, C:/bea10.3/modules/javax.mail_1.1.0.0_1-1.jar, C:/bea10.3/modules/javax.xml.soap_1.3.1.0.jar, C:/bea10.3/modules/javax.xml.rpc_1.2.1.jar, C:/bea10.3/modules/javax.xml.ws_2.1.1.jar, C:/bea10.3/modules/javax.management.j2ee_1.0.jar, C:/bea10.3/modules/javax.resource_1.5.1.jar, C:/bea10.3/modules/javax.servlet_1.0.0.0_2-5.jar, C:/bea10.3/modules/javax.transaction_1.0.0.0_1-1.jar, C:/bea10.3/modules/javax.xml.stream_1.1.1.0.jar, C:/bea10.3/modules/javax.security.jacc_1.0.0.0_1-1.jar, C:/bea10.3/modules/javax.xml.registry_1.0.0.0_1-0.jar, C:/bea10.3/wlserver_10.3/server/lib/wls-api.jar, C:/bea10.3/modules/com.bea.core.apache_1.2.0.0.jar, C:/bea10.3/modules/com.bea.core.i18n_1.4.0.0.jar, C:/bea10.3/modules/com.bea.core.logging_1.4.0.0.jar, C:/bea10.3/modules/com.bea.core.utils.full_1.4.0.0.jar, C:/bea10.3/modules/com.bea.core.utils.wrapper_1.3.0.0.jar, C:/bea10.3/modules/com.bea.core.utils.classloaders_1.4.0.0.jar, C:/bea10.3/modules/com.bea.core.common.security.providers.env_1.0.0.0_5-0-2-0.jar, C:/bea10.3/modules/com.bea.core.common.security.saml2.manage_1.0.0.0_5-0-2-0.jar, C:/bea10.3/modules/com.bea.core.weblogic.web.api_1.2.0.0.jar, C:/bea10.3/modules/com.bea.core.weblogic.rmi.client_1.4.0.0.jar, C:/bea10.3/modules/com.bea.core.transaction_2.5.0.0.jar, C:/bea10.3/modules/com.bea.core.workarea_1.4.0.0.jar, C:/bea10.3/modules/com.bea.core.xml.weblogic.xpath_1.1.0.0.jar, C:/bea10.3/modules/com.bea.core.datasource6_1.4.0.0.jar, C:/bea10.3/modules/com.bea.core.weblogic.stax_1.4.0.0.jar, C:/bea10.3/wlserver_10.3/server/lib/weblogic.jar, C:/bea10.3/modules/features/weblogic.server.modules_10.3.0.0.jar, C:/bea10.3/wlserver_10.3/server/lib/schema/weblogic-domain-binding.jar, C:/bea10.3/wlserver_10.3/server/lib/schema/diagnostics-binding.jar, C:/bea10.3/wlserver_10.3/server/lib/schema/diagnostics-image-binding.jar, C:/bea10.3/wlserver_10.3/server/lib/wlcipher.jar, C:/bea10.3/wlserver_10.3/server/lib/webservices.jar, C:/bea10.3/wlserver_10.3/server/lib/xmlx.jar, C:/bea10.3/wlserver_10.3/server/lib/ojdbc6.jar, C:/bea10.3/wlserver_10.3/server/lib/jconn2.jar, C:/bea10.3/wlserver_10.3/server/lib/jconn3.jar, C:/bea10.3/wlserver_10.3/server/lib/jConnect.jar, C:/bea10.3/wlserver_10.3/server/lib/EccpressoAsn1.jar, C:/bea10.3/wlserver_10.3/server/lib/EccpressoCore.jar, C:/bea10.3/wlserver_10.3/server/lib/EccpressoJcae.jar, C:/bea10.3/wlserver_10.3/server/lib/mysql-connector-java-commercial-5.0.3-bin.jar, C:/bea10.3/wlserver_10.3/server/lib/wlbase.jar, C:/bea10.3/wlserver_10.3/server/lib/wlutil.jar, C:/bea10.3/wlserver_10.3/server/lib/wlsqlserver.jar, C:/bea10.3/wlserver_10.3/server/lib/wldb2.jar, C:/bea10.3/wlserver_10.3/server/lib/wlsybase.jar, C:/bea10.3/wlserver_10.3/server/lib/wloracle.jar, C:/bea10.3/wlserver_10.3/server/lib/wlinformix.jar, C:/bea10.3/wlserver_10.3/server/lib/wlw-langx.jar, C:/bea10.3/wlserver_10.3/common/lib/pdev.jar, C:/bea10.3/wlserver_10.3/server/lib/wlw-system.jar, C:/bea10.3/wlserver_10.3/server/lib/jcom.jar, D:/Extosoft/TRAINNING/AppTier/WebContent/WEB-INF/lib/AppTierWSService.jar, D:/Extosoft/TRAINNING/AppTier/WebContent/WEB-INF/lib/log4j-1.2.9.jar, D:/Extosoft/TRAINNING/AppTier/WebContent/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar, D:/Extosoft/TRAINNING/AppTier/.xbean_bin, C:/bea10.3/tools/eclipse_pkgs/2.0/pkgs/eclipse/plugins/com.bea.workshop.thirdparty.xmlbeans.v23_1.2.0.20080711173356.jar]
+Resource=AppTierWS.java; starting offset=-1; ending offset=-1; line=1
+
+
+!ENTRY org.eclipse.osgi 2 1 2019-01-05 15:00:47.549
+!MESSAGE NLS unused message: _UI_LABEL_UNDEFINED_ARG1 in: org.eclipse.wst.wsdl.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2019-01-05 15:00:47.556
+!MESSAGE NLS unused message: _UI_LABEL_UNDEFINED_ARG2 in: org.eclipse.wst.wsdl.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2019-01-05 15:00:47.561
+!MESSAGE NLS unused message: _UI_LABEL_OR_UNDEFINED_ARG2 in: org.eclipse.wst.wsdl.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2019-01-05 15:00:47.567
+!MESSAGE NLS unused message: _UI_LABEL_OR_UNDEFINED_ARG3 in: org.eclipse.wst.wsdl.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2019-01-05 15:00:47.573
+!MESSAGE NLS unused message: _UI_LABEL_NO_OBJECT_SPECIFIED_ARG1 in: org.eclipse.wst.wsdl.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2019-01-05 15:00:47.579
+!MESSAGE NLS unused message: _UI_LABEL_NO_PARAMETERS_SPECIFIED in: org.eclipse.wst.wsdl.ui.internal.messages
+
+!ENTRY org.eclipse.ui.workbench 4 2 2019-01-05 15:01:12.007
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ActivationCodeTrigger.registerActionForKeyActivation(AbstractTextEditor.java:779)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setAction(AbstractTextEditor.java:4923)
+	at org.eclipse.jdt.internal.ui.actions.SurroundWithTemplateMenuAction.createSurroundWithTryCatchAction(SurroundWithTemplateMenuAction.java:283)
+	at org.eclipse.jdt.internal.ui.actions.SurroundWithTemplateMenuAction.fillMenu(SurroundWithTemplateMenuAction.java:254)
+	at org.eclipse.jdt.internal.ui.actions.SurroundWithTemplateMenuAction.getMenu(SurroundWithTemplateMenuAction.java:146)
+	at org.eclipse.ui.internal.WWinPluginPulldown$MenuProxy$MenuLoader.run(WWinPluginPulldown.java:128)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.ui.internal.WWinPluginPulldown$MenuProxy.getMenu(WWinPluginPulldown.java:156)
+	at org.eclipse.jface.action.ActionContributionItem.fill(ActionContributionItem.java:256)
+	at org.eclipse.jface.action.SubContributionItem.fill(SubContributionItem.java:67)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:666)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:586)
+	at org.eclipse.jface.action.MenuManager.fill(MenuManager.java:236)
+	at org.eclipse.jface.action.SubContributionItem.fill(SubContributionItem.java:67)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:666)
+	at org.eclipse.jface.action.MenuManager.updateAll(MenuManager.java:767)
+	at org.eclipse.ui.internal.WorkbenchWindow.updateActionBars(WorkbenchWindow.java:2974)
+	at org.eclipse.ui.internal.WorkbenchWindow.updateActionSets(WorkbenchWindow.java:3057)
+	at org.eclipse.ui.internal.WorkbenchPage$ActionSwitcher.updateActionSets(WorkbenchPage.java:536)
+	at org.eclipse.ui.internal.WorkbenchPage$ActionSwitcher.updateActivePart(WorkbenchPage.java:368)
+	at org.eclipse.ui.internal.WorkbenchPage.setActivePart(WorkbenchPage.java:3400)
+	at org.eclipse.ui.internal.WorkbenchPage.requestActivation(WorkbenchPage.java:2947)
+	at org.eclipse.ui.internal.PartPane.requestActivation(PartPane.java:266)
+	at org.eclipse.ui.internal.PartPane.handleEvent(PartPane.java:229)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:938)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:962)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:944)
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1273)
+	at org.eclipse.swt.widgets.Control.sendFocusEvent(Control.java:2366)
+	at org.eclipse.swt.widgets.Widget.wmSetFocus(Widget.java:2176)
+	at org.eclipse.swt.widgets.Control.WM_SETFOCUS(Control.java:4282)
+	at org.eclipse.swt.widgets.Tree.WM_SETFOCUS(Tree.java:6366)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:3738)
+	at org.eclipse.swt.widgets.Tree.windowProc(Tree.java:5370)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4361)
+	at org.eclipse.swt.internal.win32.OS.SetFocus(Native Method)
+	at org.eclipse.swt.widgets.Control.forceFocus(Control.java:964)
+	at org.eclipse.swt.widgets.Control.setSavedFocus(Control.java:2966)
+	at org.eclipse.swt.widgets.Decorations.restoreFocus(Decorations.java:803)
+	at org.eclipse.swt.widgets.Decorations.WM_ACTIVATE(Decorations.java:1595)
+	at org.eclipse.swt.widgets.Shell.WM_ACTIVATE(Shell.java:1833)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:3670)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:291)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1554)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:1753)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4361)
+	at org.eclipse.swt.internal.win32.OS.DestroyWindow(Native Method)
+	at org.eclipse.swt.widgets.Control.destroyWidget(Control.java:652)
+	at org.eclipse.swt.widgets.Shell.destroyWidget(Shell.java:637)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:750)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:411)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:442)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:656)
+	at org.eclipse.jface.window.Window.close(Window.java:331)
+	at org.eclipse.jface.dialogs.Dialog.close(Dialog.java:974)
+	at org.eclipse.jface.dialogs.Dialog.okPressed(Dialog.java:935)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:466)
+	at org.eclipse.ui.internal.dialogs.ShowViewDialog.buttonPressed(ShowViewDialog.java:101)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:228)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:938)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3687)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3299)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:820)
+	at org.eclipse.jface.window.Window.open(Window.java:796)
+	at org.eclipse.ui.handlers.ShowViewHandler.openOther(ShowViewHandler.java:102)
+	at org.eclipse.ui.handlers.ShowViewHandler.execute(ShowViewHandler.java:77)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:240)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:475)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:429)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommand(HandlerService.java:165)
+	at org.eclipse.ui.internal.handlers.SlaveHandlerService.executeCommand(SlaveHandlerService.java:247)
+	at org.eclipse.ui.internal.ShowViewMenu$3.run(ShowViewMenu.java:128)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:548)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:490)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:402)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:938)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3687)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3299)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2389)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2353)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:112)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:448)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1174)
+	at org.eclipse.equinox.launcher.Main.eclipse_main(Main.java:1148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.m7.installer.util.NitroxMain$1.run(NitroxMain.java:33)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:199)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:597)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:273)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:183)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:174)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:169)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:121)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:22.559
+!MESSAGE Server watcher[Oracle WebLogic Server v10.3 at localhost]:running Weblogic detected, validating...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:27.764
+!MESSAGE Creating Deployment manager...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:27.770
+!MESSAGE Elapsed time 3500ms
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:27.777
+!MESSAGE Deployment manager created :[Oracle WebLogic Server v10.3 at localhost]@17702674
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:28.501
+!MESSAGE Module changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:28.510
+!MESSAGE Found new module:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:28.567
+!MESSAGE Total deleted modules: 0
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:28.606
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.webservices.core 2 2 2019-01-05 15:01:29.125
+!MESSAGE Type Safety: The parameterized types used by this JWS will not be present in the WSDL or generated clients. (D:\Extosoft\TRAINNING\AppTier\src\th\co\extosoft\app\ws\AppTierWS.java, line 0)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.427
+!MESSAGE Module changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.436
+!MESSAGE Module Status: 
+-AppTier (change) (redeploy)
+-WebTier (add) (deploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.445
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.469
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.478
+!MESSAGE ***dm.stop (stopModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.707
+!MESSAGE Waiting on ProgressObject:@9667356
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.827
+!MESSAGE ProgressObject completed :@9667356
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.845
+!MESSAGE Stopped _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:31.863
+!MESSAGE ***dm.undeploy (undeploy) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:32.167
+!MESSAGE Waiting on ProgressObject:@19786003
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:32.281
+!MESSAGE ProgressObject completed :@19786003
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:32.289
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:32.301
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:32.527
+!MESSAGE Waiting on ProgressObject:@20793672
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:32.988
+!MESSAGE ProgressObject completed :@20793672
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.007
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.027
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.274
+!MESSAGE Waiting on ProgressObject:@8077179
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.483
+!MESSAGE ProgressObject completed :@8077179
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.489
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.495
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.501
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:33.509
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:01:52.931
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server v10.3 at localhost]@17702674
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:29.100
+!MESSAGE Server watcher[Oracle WebLogic Server v10.3 at localhost]:running Weblogic detected, validating...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:33.965
+!MESSAGE Creating Deployment manager...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:33.971
+!MESSAGE Elapsed time 732ms
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:33.976
+!MESSAGE Deployment manager created :[Oracle WebLogic Server v10.3 at localhost]@7707154
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.481
+!MESSAGE Total deleted modules: 2
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.497
+!MESSAGE Found deleted module [AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.515
+!MESSAGE Found deleted module [WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.561
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.627
+!MESSAGE Module Status: 
+-AppTier (delete) (undeploy)
+-WebTier (delete) (undeploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.635
+!MESSAGE Module deleted: AppTier
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.642
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.675
+!MESSAGE Undeploy called on submodule AppTier.  Skipping
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.681
+!MESSAGE Module deleted: WebTier
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.686
+!MESSAGE Undeploy called on submodule WebTier.  Skipping
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.692
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.698
+!MESSAGE ***dm.stop (stopModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:34.960
+!MESSAGE Waiting on ProgressObject:@18920310
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.074
+!MESSAGE ProgressObject completed :@18920310
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.090
+!MESSAGE Stopped _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.105
+!MESSAGE ***dm.undeploy (undeploy) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.395
+!MESSAGE Waiting on ProgressObject:@18349269
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.637
+!MESSAGE ProgressObject completed :@18349269
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.647
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.660
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:35.670
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:45.274
+!MESSAGE Found new module:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:45.279
+!MESSAGE Found new module:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:45.287
+!MESSAGE Total deleted modules: 0
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:45.304
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.webservices.core 2 2 2019-01-05 15:03:45.567
+!MESSAGE Type Safety: The parameterized types used by this JWS will not be present in the WSDL or generated clients. (D:\Extosoft\TRAINNING\AppTier\src\th\co\extosoft\app\ws\AppTierWS.java, line 0)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:46.150
+!MESSAGE Module Status: 
+-AppTier (add) (deploy)
+-WebTier (add) (deploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:46.155
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:46.163
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:46.465
+!MESSAGE Waiting on ProgressObject:@23907187
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:47.529
+!MESSAGE ProgressObject completed :@23907187
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:47.548
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:47.564
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:47.775
+!MESSAGE Waiting on ProgressObject:@6302513
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:47.985
+!MESSAGE ProgressObject completed :@6302513
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:47.992
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:48.001
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:48.012
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:03:48.021
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2019-01-05 15:14:46.611
+!MESSAGE Error calling delegate restart() Oracle WebLogic Server v10.3 at localhost
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:14:46.630
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server v10.3 at localhost]@7707154
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:02.803
+!MESSAGE Server watcher[Oracle WebLogic Server v10.3 at localhost]:running Weblogic detected, validating...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.109
+!MESSAGE Creating Deployment manager...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.115
+!MESSAGE Elapsed time 720ms
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.120
+!MESSAGE Deployment manager created :[Oracle WebLogic Server v10.3 at localhost]@17496432
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.579
+!MESSAGE Module not changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.611
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.628
+!MESSAGE Total deleted modules: 0
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.667
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.844
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.849
+!MESSAGE Module Status: 
+-AppTier
+-WebTier (change) (redeploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.855
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.861
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:08.892
+!MESSAGE ***dm.stop (stopModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.077
+!MESSAGE Waiting on ProgressObject:@5946751
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.183
+!MESSAGE ProgressObject completed :@5946751
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.191
+!MESSAGE Stopped _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.201
+!MESSAGE ***dm.undeploy (undeploy) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.452
+!MESSAGE Waiting on ProgressObject:@9919680
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.569
+!MESSAGE ProgressObject completed :@9919680
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.579
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.600
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:09.826
+!MESSAGE Waiting on ProgressObject:@9477352
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.118
+!MESSAGE ProgressObject completed :@9477352
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.136
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.153
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.368
+!MESSAGE Waiting on ProgressObject:@14891128
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.474
+!MESSAGE ProgressObject completed :@14891128
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.479
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.485
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.490
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:15:11.496
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2019-01-05 15:23:31.506
+!MESSAGE Error calling delegate restart() Oracle WebLogic Server v10.3 at localhost
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:31.523
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server v10.3 at localhost]@17496432
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:47.709
+!MESSAGE Server watcher[Oracle WebLogic Server v10.3 at localhost]:running Weblogic detected, validating...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:51.904
+!MESSAGE Creating Deployment manager...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:51.910
+!MESSAGE Elapsed time 701ms
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:51.915
+!MESSAGE Deployment manager created :[Oracle WebLogic Server v10.3 at localhost]@10510660
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.448
+!MESSAGE Module not changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.481
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.497
+!MESSAGE Total deleted modules: 0
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.536
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.689
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.694
+!MESSAGE Module Status: 
+-AppTier
+-WebTier (change) (redeploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.700
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.706
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.738
+!MESSAGE ***dm.stop (stopModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:52.951
+!MESSAGE Waiting on ProgressObject:@23516892
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.064
+!MESSAGE ProgressObject completed :@23516892
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.079
+!MESSAGE Stopped _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.095
+!MESSAGE ***dm.undeploy (undeploy) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.425
+!MESSAGE Waiting on ProgressObject:@5246500
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.542
+!MESSAGE ProgressObject completed :@5246500
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.550
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.565
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:53.786
+!MESSAGE Waiting on ProgressObject:@9631436
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.160
+!MESSAGE ProgressObject completed :@9631436
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.170
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.180
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.385
+!MESSAGE Waiting on ProgressObject:@11794073
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.491
+!MESSAGE ProgressObject completed :@11794073
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.497
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.502
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.508
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:23:55.513
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2019-01-05 15:29:42.199
+!MESSAGE Error calling delegate restart() Oracle WebLogic Server v10.3 at localhost
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:29:42.217
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server v10.3 at localhost]@10510660
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:29:58.423
+!MESSAGE Server watcher[Oracle WebLogic Server v10.3 at localhost]:running Weblogic detected, validating...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.065
+!MESSAGE Creating Deployment manager...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.212
+!MESSAGE Elapsed time 873ms
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.217
+!MESSAGE Deployment manager created :[Oracle WebLogic Server v10.3 at localhost]@29395523
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.664
+!MESSAGE Module not changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.674
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.680
+!MESSAGE Total deleted modules: 0
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.692
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.814
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.819
+!MESSAGE Module Status: 
+-AppTier
+-WebTier (change) (redeploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.824
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.832
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:03.862
+!MESSAGE ***dm.stop (stopModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.053
+!MESSAGE Waiting on ProgressObject:@13916406
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.158
+!MESSAGE ProgressObject completed :@13916406
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.163
+!MESSAGE Stopped _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.168
+!MESSAGE ***dm.undeploy (undeploy) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.417
+!MESSAGE Waiting on ProgressObject:@19435741
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.528
+!MESSAGE ProgressObject completed :@19435741
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.534
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.543
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:04.729
+!MESSAGE Waiting on ProgressObject:@17967646
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.582
+!MESSAGE ProgressObject completed :@17967646
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.587
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.592
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.753
+!MESSAGE Waiting on ProgressObject:@20239397
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.861
+!MESSAGE ProgressObject completed :@20239397
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.866
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.870
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.874
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:30:05.879
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:35:16.075
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server v10.3 at localhost]@29395523
+!SESSION 2019-01-05 15:38:03.332 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_05
+java.vendor=BEA Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.bea.workshop.product 1 1 2019-01-05 15:38:14.538
+!MESSAGE Using product plugin (com.bea.workshop.product) for feedback reports
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:29.893
+!MESSAGE Server watcher[Oracle WebLogic Server v10.3 at localhost]:running Weblogic detected, validating...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:34.484
+!MESSAGE Creating Deployment manager...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:34.490
+!MESSAGE Elapsed time 3467ms
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:34.495
+!MESSAGE Deployment manager created :[Oracle WebLogic Server v10.3 at localhost]@8006160
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:37.592
+!MESSAGE Module changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:37.600
+!MESSAGE Found new module:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:37.654
+!MESSAGE Total deleted modules: 0
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:37.688
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.webservices.core 2 2 2019-01-05 15:38:38.912
+!MESSAGE Type Safety: The parameterized types used by this JWS will not be present in the WSDL or generated clients. (D:\Extosoft\TRAINNING\AppTier\src\th\co\extosoft\app\ws\AppTierWS.java, line 0)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.560
+!MESSAGE Module changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.567
+!MESSAGE Module Status: 
+-AppTier (change) (redeploy)
+-WebTier (add) (deploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.575
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.596
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.606
+!MESSAGE ***dm.stop (stopModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.841
+!MESSAGE Waiting on ProgressObject:@20742228
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.964
+!MESSAGE ProgressObject completed :@20742228
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.980
+!MESSAGE Stopped _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:40.995
+!MESSAGE ***dm.undeploy (undeploy) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:41.334
+!MESSAGE Waiting on ProgressObject:@20442724
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:41.453
+!MESSAGE ProgressObject completed :@20442724
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:41.463
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:41.489
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:41.811
+!MESSAGE Waiting on ProgressObject:@22081149
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.004
+!MESSAGE ProgressObject completed :@22081149
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.020
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.037
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.350
+!MESSAGE Waiting on ProgressObject:@6347435
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.774
+!MESSAGE ProgressObject completed :@6347435
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.791
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.807
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.823
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 15:38:43.831
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2019-01-05 16:05:50.560
+!MESSAGE Error calling delegate restart() Oracle WebLogic Server v10.3 at localhost
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:05:50.576
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server v10.3 at localhost]@8006160
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:06.738
+!MESSAGE Server watcher[Oracle WebLogic Server v10.3 at localhost]:running Weblogic detected, validating...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.377
+!MESSAGE Creating Deployment manager...
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.382
+!MESSAGE Elapsed time 718ms
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.387
+!MESSAGE Deployment manager created :[Oracle WebLogic Server v10.3 at localhost]@49532961
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.571
+!MESSAGE Module not changed:[AppTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.581
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.587
+!MESSAGE Total deleted modules: 0
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.599
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.695
+!MESSAGE Module changed:[WebTier]
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.700
+!MESSAGE Module Status: 
+-AppTier
+-WebTier (change) (redeploy)
+
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.706
+!MESSAGE Publishing beginning.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.712
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.741
+!MESSAGE ***dm.stop (stopModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:11.922
+!MESSAGE Waiting on ProgressObject:@12135276
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.025
+!MESSAGE ProgressObject completed :@12135276
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.031
+!MESSAGE Stopped _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.036
+!MESSAGE ***dm.undeploy (undeploy) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.247
+!MESSAGE Waiting on ProgressObject:@13530526
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.361
+!MESSAGE ProgressObject completed :@13530526
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.367
+!MESSAGE ***dm.getAvailableModules (initModuleNameCache)
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.375
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:12.618
+!MESSAGE Waiting on ProgressObject:@16531350
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.561
+!MESSAGE ProgressObject completed :@16531350
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.566
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.571
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.747
+!MESSAGE Waiting on ProgressObject:@17173856
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.956
+!MESSAGE ProgressObject completed :@17173856
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.961
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.965
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.970
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:06:13.986
+!MESSAGE Publishing finished.
+
+!ENTRY com.bea.workshop.wls.core 1 2000 2019-01-05 16:31:22.159
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server v10.3 at localhost]@49532961
+!SESSION 2019-01-05 16:35:28.073 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_05
+java.vendor=BEA Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.bea.workshop.product 1 1 2019-01-05 16:35:37.884
+!MESSAGE Using product plugin (com.bea.workshop.product) for feedback reports
+
+!ENTRY org.eclipse.osgi 2 0 2019-01-05 16:35:42.273
+!MESSAGE While loading class "org.eclipse.jdt.internal.debug.ui.JavaThreadActionFilter", thread "Thread[Worker-3,5,main]" timed out waiting (5000ms) for thread "Thread[AWT-EventQueue-0,6,main]" to finish starting bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar [180]". To avoid deadlock, thread "Thread[Worker-3,5,main]" is proceeding but "org.eclipse.jdt.internal.debug.ui.JavaThreadActionFilter" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar" by thread "AWT-EventQueue-0".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 28 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.osgi 2 0 2019-01-05 16:35:47.285
+!MESSAGE While loading class "org.eclipse.jdt.internal.debug.ui.JavaStackFrameActionFilter", thread "Thread[Worker-3,5,main]" timed out waiting (5000ms) for thread "Thread[AWT-EventQueue-0,6,main]" to finish starting bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar [180]". To avoid deadlock, thread "Thread[Worker-3,5,main]" is proceeding but "org.eclipse.jdt.internal.debug.ui.JavaStackFrameActionFilter" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar" by thread "AWT-EventQueue-0".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 28 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.osgi 2 0 2019-01-05 16:35:52.306
+!MESSAGE While loading class "org.eclipse.jdt.internal.debug.ui.MemberActionFilter", thread "Thread[Worker-3,5,main]" timed out waiting (5000ms) for thread "Thread[AWT-EventQueue-0,6,main]" to finish starting bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar [180]". To avoid deadlock, thread "Thread[Worker-3,5,main]" is proceeding but "org.eclipse.jdt.internal.debug.ui.MemberActionFilter" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar" by thread "AWT-EventQueue-0".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 28 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.osgi 2 0 2019-01-05 16:35:57.325
+!MESSAGE While loading class "org.eclipse.jdt.internal.debug.ui.JavaVarActionFilter", thread "Thread[Worker-3,5,main]" timed out waiting (5000ms) for thread "Thread[AWT-EventQueue-0,6,main]" to finish starting bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar [180]". To avoid deadlock, thread "Thread[Worker-3,5,main]" is proceeding but "org.eclipse.jdt.internal.debug.ui.JavaVarActionFilter" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "update@plugins/org.eclipse.jdt.debug.ui_3.2.102.v20071002_r332.jar" by thread "AWT-EventQueue-0".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 28 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1141)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:258)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:111)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:189)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findLocalClass(BundleLoader.java:340)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClassInternal(BundleLoader.java:408)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:369)
+	at org.eclipse.osgi.framework.internal.core.BundleLoader.findClass(BundleLoader.java:357)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:83)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:277)
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:66)
+	at org.eclipse.ui.internal.util.Util.getAdapter(Util.java:106)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.getActionFilter(ActionExpression.java:471)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.preciselyMatches(ActionExpression.java:524)
+	at org.eclipse.ui.internal.ActionExpression$ObjectStateExpression.isEnabledFor(ActionExpression.java:499)
+	at org.eclipse.ui.internal.ActionExpression$AndExpression.isEnabledFor(ActionExpression.java:132)
+	at org.eclipse.ui.internal.ActionExpression$SingleExpression.isEnabledFor(ActionExpression.java:743)
+	at org.eclipse.ui.internal.ActionExpression.isEnabledFor(ActionExpression.java:1053)
+	at org.eclipse.ui.internal.decorators.DecoratorDefinition.isEnabledFor(DecoratorDefinition.java:281)
+	at org.eclipse.ui.internal.decorators.DecoratorManager.getDecoratorsFor(DecoratorManager.java:193)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecoratorsFor(LightweightDecoratorManager.java:292)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:315)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:369)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:329)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)

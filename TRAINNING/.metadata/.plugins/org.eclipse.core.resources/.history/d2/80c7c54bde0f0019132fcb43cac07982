@@ -1,0 +1,46 @@
+package th.co.extosoft.trainning;
+
+import th.co.extosoft.app.biz.AppTierBusiness;
+import th.co.extosoft.app.itf.ConfigurationRequest;
+
+public class TestConnectDB {
+
+	public static void main(String args[]){
+		
+	
+		AppTierBusiness appTierBusiness = new AppTierBusiness();		
+		//Call GetConfig
+		ConfigurationRequest configReqs = new ConfigurationRequest();
+//		configReqs.setConfigId(3);
+		appTierBusiness.callGetconfig(configReqs);
+		
+		
+
+//		configReqs = new ConfigurationRequest();
+//		configReqs.setConfigName("asd");
+//		configReqs.setConfigValue("asd");
+//		appTierBusiness.callAdConfig(configReqs);
+		
+		
+		//Call AddConfig
+//		configReqs = new ConfigurationRequest();
+//		configReqs.setConfigName("Jack");
+//		configReqs.setConfigValue("Extosoft");
+//		appTierBusiness.callAddConfig(configReqs);
+		
+		//Call UpdateConfig
+//		configReqs = new ConfigurationRequest();
+//		configReqs.setConfigId(5);
+//		configReqs.setConfigName("Jack");
+//		configReqs.setConfigValue("Extosoft1");
+//		appTierBusiness.callUpdateConfig(configReqs);
+		
+		//Call DeleteConfig
+		configReqs = new ConfigurationRequest();
+//		configReqs.setConfigId(52);
+		configReqs.setConfigName("aaaaa");
+		appTierBusiness.callDeleteConfig(configReqs);
+		
+	}
+	
+}

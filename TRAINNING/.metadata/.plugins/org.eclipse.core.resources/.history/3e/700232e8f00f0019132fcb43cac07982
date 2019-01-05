@@ -1,0 +1,16 @@
+package th.co.extosoft.app.ws;
+
+import javax.jws.*;
+
+import th.co.extosoft.app.biz.AppTierBusiness;
+
+@WebService
+public class AppTierWS2 {
+
+	@WebMethod
+	public void callGetconfig() {
+		AppTierBusiness appTierBusiness = new AppTierBusiness();
+		appTierBusiness.callGetConfig(configReqs);
+		
+	}
+}

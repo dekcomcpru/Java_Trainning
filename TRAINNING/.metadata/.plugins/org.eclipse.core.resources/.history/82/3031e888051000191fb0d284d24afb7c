@@ -1,0 +1,24 @@
+package th.co.extosoft.app.ws;
+
+import javax.jws.*;
+
+@WebService
+public class AppTierWS2 {
+
+	@WebMethod
+	public void callGetData() {
+	}
+	
+	@WebMethod
+	public void callAddData() {
+	}
+	
+	@WebMethod
+	public void callUpdateData() {
+	}
+	
+	@WebMethod
+	public void callDeleteData() {
+		
+	}
+}

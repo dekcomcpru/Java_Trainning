@@ -1,0 +1,45 @@
+package th.co.extosoft.app.ws;
+
+import java.util.List;
+
+import javax.jws.*;
+
+import th.co.extosoft.app.biz.AppTierBusiness;
+import th.co.extosoft.app.itf.ConfigurationRequest;
+import th.co.extosoft.app.itf.ConfigurationResponse;
+
+@WebService
+public class AppTierWS2 {
+
+	@WebMethod
+	public List<ConfigurationResponse> callGetconfig(ConfigurationRequest configReqs) {	
+		List<ConfigurationResponse> configResp = null;
+		AppTierBusiness appTierBusiness = new AppTierBusiness();
+		configResp = appTierBusiness.callGetConfig(configReqs);
+		
+		return configResp;
+		
+	}
+	
+	@WebMethod
+	public String callAddConfig(ConfigurationRequest configReqs) {			
+		AppTierBusiness appTierBusiness = new AppTierBusiness();
+		String msg = "";
+		msg = appTierBusiness.callAddConfig(configReqs);		
+		return msg;		
+	}
+	
+	public String callDeleteConfig(ConfigurationRequest configReqs) {			
+		AppTierBusiness appTierBusiness = new AppTierBusiness();
+		String msg = "";
+		msg = appTierBusiness.callDeleteConfig(configReqs);		
+		return msg;		
+	}
+	
+	
+	@WebMethod
+	public ConfigurationResponse callConfigurationResponse() {	
+		return new ConfigurationResponse();
+		
+	}
+}

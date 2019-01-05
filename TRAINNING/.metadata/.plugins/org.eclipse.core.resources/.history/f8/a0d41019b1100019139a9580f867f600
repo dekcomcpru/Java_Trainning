@@ -1,0 +1,50 @@
+package th.co.extosoft.web.service;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import th.co.extosoft.web.init.WebTierConfigInit;
+
+/**
+ * Servlet implementation class for Servlet: WebTierTest
+ *
+ */
+ public class WebTierTest extends javax.servlet.http.HttpServlet implements javax.servlet.Servlet {
+   static final long serialVersionUID = 1L;
+   
+    /* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#HttpServlet()
+	 */
+	public WebTierTest() {
+		super();
+	}   	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		String msg = WebTierConfigInit.getConfig("URL");
+		String Test = WebTierConfigInit.getConfig("Test");
+		String a = WebTierConfigInit.getConfig("a");
+		String b = WebTierConfigInit.getConfig("b");
+		String c = WebTierConfigInit.getConfig("c");
+		String d = WebTierConfigInit.getConfig("d");
+		String e = WebTierConfigInit.getConfig("e");
+		System.out.println("Msg --> " + Test);
+		System.out.println("Msg --> " + a);
+		System.out.println("Msg --> " + b);
+		System.out.println("Msg --> " + c);
+		System.out.println("Msg --> " + d);
+		System.out.println("Msg --> " + e);
+	}  	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}   	  	    
+}
